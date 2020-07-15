@@ -119,6 +119,7 @@
               ]
             },
             {
+<<<<<<< HEAD
               "title": "Configuration",
               "children": [
                 {
@@ -127,6 +128,20 @@
                 }
               ]
             },
+=======
+              "title": "Downgrade for AngularJS",
+              "url": "guide/store/recipes/downgrade"
+            },
+            {
+              "title": "Existing Projects",
+              "url": "guide/store/recipes/adding"
+            }
+          ]
+        },
+        {
+          "title": "Configuration",
+          "children": [
+>>>>>>> 29f1a41f5d2e552e8b27c2fa72c6cba852ef7bb3
             {
               "title": "Testing",
               "url": "guide/store/testing"
@@ -483,8 +498,7 @@
         {
           "url": "https://stackoverflow.com/questions/tagged/ngrx",
           "title": "Stack Overflow",
-          "tooltip":
-            "Stack Overflow: where the community answers your technical NgRx questions."
+          "tooltip": "Stack Overflow: where the community answers your technical NgRx questions."
         },
         {
           "url": "https://gitter.im/ngrx/platform",
